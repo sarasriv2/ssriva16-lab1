@@ -1,0 +1,17 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+Lab 1
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   FINAL/datetime/datetime-css.css
+#	new file:   FINAL/datetime/datetime-html.html
+#	new file:   FINAL/greeting/greeting-css.css
+#	new file:   FINAL/greeting/greeting-html.html
+#	new file:   FINAL/quarterly-goals/index.html
+#	new file:   FINAL/quarterly-goals/pencil.jpg
+#	new file:   FINAL/quarterly-goals/styles.css
+#
